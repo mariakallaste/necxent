@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url(https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap);
+
+@layer components {
+    h2 {
+        @apply font-semibold text-[36px] text-[#4D4D4D] mt-[32px] leading-[44px]
+    }
+    h3 {
+        @apply font-bold text-[28px] text-[#4D4D4D] leading-[36px]
+    }
+    p {
+       @apply  mt-[8px] font-normal text-[16px] text-[#717171]
+    }
+}
