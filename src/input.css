@@ -12,6 +12,6 @@
         @apply font-bold text-[28px] text-[#4D4D4D] leading-[36px]
     }
     p {
-       @apply  mt-[8px] font-normal text-[16px] text-[#717171]
+       @apply  mt-[8px] font-normal text-[#717171]
     }
 }
